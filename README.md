@@ -63,5 +63,10 @@ python individual.py
 
 <img width="176" alt="Знімок екрана 2025-04-28 о 23 28 47" src="https://github.com/user-attachments/assets/b5311cbd-390c-40e9-9fcd-298d8bf8cd24" />
 
+
+
 <img width="596" alt="Знімок екрана 2025-04-28 о 23 27 48" src="https://github.com/user-attachments/assets/f07ffb9b-e395-440e-a53c-e65594b4ecfe" />
+
+
+
 Приклад успішного виконання програми
